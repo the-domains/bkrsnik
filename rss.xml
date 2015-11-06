@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[bkrsnik]]></title>
         <description><![CDATA[bkrsnik]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bkrsnik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 08:11:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 08:18:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bkrsnik/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6c04fd5-d80f-49c5-a8f5-d81c0eb75ae3.jpg">]]></description>
+            <link>https://thegrid.ai/bkrsnik/7291ac42-1ef1-4b71-97c3-488ec8e601ba/index.html</link>
+            <guid isPermaLink="false">7291ac42-1ef1-4b71-97c3-488ec8e601ba</guid>
+            <pubDate>Fri, 06 Nov 2015 08:17:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb24c17-c837-40d2-86f9-f4006bee1ad6.jpg">]]></description>
-            <link>undefined3a054573-9eea-430d-9736-f2fe20ea04c9/index.html</link>
+            <link>https://thegrid.ai/bkrsnik/3a054573-9eea-430d-9736-f2fe20ea04c9/index.html</link>
             <guid isPermaLink="false">3a054573-9eea-430d-9736-f2fe20ea04c9</guid>
-            <pubDate>Fri, 06 Nov 2015 08:11:14 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2015 08:17:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
